@@ -10,20 +10,20 @@
 
 // let f1 = () => console.log('hello')
 
-// let t1 = 10
-// let t2 = 20
+let t1 = 10
+let t2 = 20
 
 
-// console.log(t1, t2)
+console.log(t1, t2)
 
-// let f11 = () => {console.log('H11111')}
-// let f22 = () => {console.log('Sum =', t11 +t22)}
+let f11 = () => {console.log('H11111')}
+let f22 = () => {console.log('Sum =', t11 +t22)}
 
-// let f33 = (t1 < t2) ?
-//     (tt1, tt2) => console.log('xx1= ', tt1 + tt2) :
-//     (tt1, tt2) => console.log('xx1= ', tt1 + tt2) ;
+let f33 = (t1 < t2) ?
+    (tt1, tt2) => console.log('xx1= ', tt1 + tt2) :
+    (tt1, tt2) => console.log('xx1= ', tt1 + tt2) ;
 
-// f33(30, 40)
+f33(30, 40)
 
 function y33(){};
 
